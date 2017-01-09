@@ -166,7 +166,7 @@ http请求方式：POST
 
 ### geonode构成体系框架图
 
-![geonode构成体系框架图][1]
+![geonode构成体系框架图](http://oh6j8wijn.bkt.clouddn.com/geonode_component_architecture.png)
 
 ### 头像管理
 
